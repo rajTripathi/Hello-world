@@ -1,2 +1,4 @@
 # Hello-world
-its my first repositery
+its my first repositer
+
+hello how ru r u fine
